@@ -1,3 +1,5 @@
+# > **ALERT**: This version of Mocha is no longer being worked on.
+
 # **Mocha** :coffee: - A Text Based Python Mock OS
 ### "*What isn't built, will be built at some point.*" - **Somebody**
 
