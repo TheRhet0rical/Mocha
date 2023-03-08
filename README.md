@@ -4,7 +4,7 @@
 *Mocha* is a text based operating system built with the **Python** programming language. *Mocha* was created because i felt like it, even though it serves almost
 no utilitarian use, besides the fact that it can be used to sort some **Python** applications you may have lying around.
 
-**NOTE** This version of Mocha is no longer being actively supported. You can find the active *(and better!)* version [here](https://github.com/TheRhet0rical/mocha-node-os).
+### **NOTE**: This version of Mocha is no longer being actively supported. You can find the active *(and better!)* version [here](https://github.com/TheRhet0rical/mocha-node-os).
 
 ### Although some cool things that *Mocha* can do, is...
 * Application Framework and Management
