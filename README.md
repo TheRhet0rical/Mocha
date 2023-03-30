@@ -1,4 +1,4 @@
-# **Mocha** :coffee: - A Text Based Python Mock OS
+# **Mocha** :coffee: - A Text Based Python Mock OS *(discontinued)*
 ### "*What isn't built, will be built at some point.*" - **Somebody**
 
 *Mocha* is a text based operating system built with the **Python** programming language. *Mocha* was created because i felt like it, even though it serves almost
